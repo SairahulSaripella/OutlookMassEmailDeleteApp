@@ -1,0 +1,5 @@
+c:\users\sai\documents\visual studio 2017\Projects\mailMassDelete\mailMassDelete\bin\Debug\mailMassDelete.exe.config
+c:\users\sai\documents\visual studio 2017\Projects\mailMassDelete\mailMassDelete\bin\Debug\mailMassDelete.exe
+c:\users\sai\documents\visual studio 2017\Projects\mailMassDelete\mailMassDelete\bin\Debug\mailMassDelete.pdb
+c:\users\sai\documents\visual studio 2017\Projects\mailMassDelete\mailMassDelete\obj\Debug\mailMassDelete.exe
+c:\users\sai\documents\visual studio 2017\Projects\mailMassDelete\mailMassDelete\obj\Debug\mailMassDelete.pdb
